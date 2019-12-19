@@ -11,7 +11,7 @@ namespace inheritance
     {
         int _id;
         string _name;
-        ArrayList arr;
+        ArrayList arr = new ArrayList();
         public int id
         {
             get
